@@ -55,3 +55,7 @@ footer {
     margin-bottom: 2rem;
     font-family: 'Gowun Dodum', cursive;
 }
+
+p {
+    margin: 0.5rem;
+}
